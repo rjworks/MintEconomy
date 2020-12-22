@@ -1,0 +1,9 @@
+r\jworks\commands\Pay.class
+r\jworks\listener\Listener.class
+r\jworks\Account.class
+r\jworks\commands\AddBalance.class
+r\jworks\Main.class
+r\jworks\utils\Messages.class
+r\jworks\commands\SetBalance.class
+r\jworks\commands\Balance.class
+r\jworks\commands\ReduceBalance.class
